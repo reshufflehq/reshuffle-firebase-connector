@@ -8,7 +8,7 @@
 
 ### Reshuffle Firebase Connector
 
-This package contains a [Reshuffle](https://reshuffle.com)
+This package contains a [Reshuffle](https://github.com/reshufflehq/reshuffle)
 connector to [Google Firebase](https://firebase.google.com).
 
 The following example tracks values in the Firebase realtime database:
