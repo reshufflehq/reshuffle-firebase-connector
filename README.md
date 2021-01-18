@@ -2,13 +2,13 @@
 
 [Code](https://github.com/reshufflehq/reshuffle-firebase-connector) |
 [npm](https://www.npmjs.com/package/reshuffle-firebase-connector) |
-[Code sample](https://github.com/reshufflehq/reshuffle-firebase-connector/examples)
+[Code sample](https://github.com/reshufflehq/reshuffle-firebase-connector/tree/master/examples)
 
 `npm install reshuffle-firebase-connector`
 
 ### Reshuffle Firebase Connector
 
-This package contains a [Reshuffle](https://dev.reshuffle.com)
+This package contains a [Reshuffle](https://reshuffle.com)
 connector to [Google Firebase](https://firebase.google.com).
 
 The following example tracks values in the Firebase realtime database:
